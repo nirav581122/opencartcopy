@@ -1,0 +1,48 @@
+21:33:24.313 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+21:33:24.321 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+21:33:24.322 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+21:33:24.323 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+21:33:24.323 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+21:33:24.324 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+21:33:24.328 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+21:33:24.329 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+21:33:24.329 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+21:33:24.330 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+21:33:24.330 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+21:33:24.331 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+21:33:24.331 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+21:33:24.331 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+21:33:24.331 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+21:33:24.332 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+21:33:24.332 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+21:33:24.332 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+21:33:24.332 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+21:33:24.334 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+21:33:24.336 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+21:33:24.337 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+21:33:24.338 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+21:33:24.338 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+21:33:24.338 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+21:33:24.347 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\nirav\IdeaProjects\opencartcopy\master.xml
+
+21:33:24.586 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 5 ms.
+21:33:29.754 [main] INFO  testCases.TC_001_AccountRegistrationTest - **** starting TC_001_AccountRegistrationTest  *****
+21:33:29.754 [main] DEBUG testCases.TC_001_AccountRegistrationTest - application logs started......
+21:33:29.950 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount link
+21:33:30.769 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on registration link
+21:33:30.769 [main] INFO  testCases.TC_001_AccountRegistrationTest - Entering customer details.. 
+21:33:32.286 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on continue..
+21:33:42.310 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message..
+21:33:47.568 [main] INFO  testCases.TC_002_LoginTest - **** Starting TC_002_LoginTest  ****
+21:33:47.572 [main] DEBUG testCases.TC_002_LoginTest - capturing application debug logs....
+21:33:47.710 [main] INFO  testCases.TC_002_LoginTest - clicked on myaccount link on the home page..
+21:33:48.246 [main] INFO  testCases.TC_002_LoginTest - clicked on login link under myaccount..
+21:33:48.246 [main] INFO  testCases.TC_002_LoginTest - Entering valid email and password..
+21:33:49.272 [main] INFO  testCases.TC_002_LoginTest - clicked on ligin button..
+21:33:49.330 [main] INFO  testCases.TC_002_LoginTest - **** Finished TC_002_LoginTest  ****
+21:33:50.374 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@31a2a9fa: 207 ms
+21:33:50.437 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@26ca61bf: 63 ms
+21:33:50.459 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@7e4579c7: 22 ms
+21:33:50.477 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@5d0b0cb9: 18 ms
+21:33:50.497 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@759de304: 20 ms
