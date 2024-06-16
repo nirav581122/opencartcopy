@@ -1,34 +1,38 @@
-20:56:18.064 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-20:56:18.074 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-20:56:18.074 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-20:56:18.074 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-20:56:18.074 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-20:56:18.075 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-20:56:18.079 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 3 ms.
-20:56:18.080 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-20:56:18.080 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-20:56:18.080 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-20:56:18.080 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-20:56:18.335 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 5 ms.
-20:56:24.701 [main] INFO  testCases.TC_001_AccountRegistrationTest - **** starting TC_001_AccountRegistrationTest  *****
-20:56:24.701 [main] DEBUG testCases.TC_001_AccountRegistrationTest - application logs started......
-20:56:24.875 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount link
-20:56:25.686 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on registration link
-20:56:25.687 [main] INFO  testCases.TC_001_AccountRegistrationTest - Entering customer details.. 
-20:56:27.310 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on continue..
-20:56:27.360 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message..
-20:56:27.362 [main] DEBUG testCases.TC_001_AccountRegistrationTest - application logs end.......
-20:56:27.362 [main] INFO  testCases.TC_001_AccountRegistrationTest - **** finished TC_001_AccountRegistrationTest  *****
-20:56:32.105 [main] INFO  testCases.TC_002_LoginTest - **** Starting TC_002_LoginTest  ****
-20:56:32.107 [main] DEBUG testCases.TC_002_LoginTest - capturing application debug logs....
-20:56:32.204 [main] INFO  testCases.TC_002_LoginTest - clicked on myaccount link on the home page..
-20:56:32.687 [main] INFO  testCases.TC_002_LoginTest - clicked on login link under myaccount..
-20:56:32.689 [main] INFO  testCases.TC_002_LoginTest - Entering valid email and password..
-20:56:33.643 [main] INFO  testCases.TC_002_LoginTest - clicked on ligin button..
-20:56:33.695 [main] INFO  testCases.TC_002_LoginTest - **** Finished TC_002_LoginTest  ****
-20:56:34.862 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@4fb04a72: 317 ms
-20:56:34.863 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@1e79d43: 0 ms
-20:56:34.928 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@ed2f2f6: 35 ms
-20:56:34.979 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@1da4b3f9: 51 ms
-20:56:35.003 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@37348491: 24 ms
-20:56:35.004 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@76e3b45b: 0 ms
+20:55:50.503 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+20:55:50.511 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+20:55:50.511 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+20:55:50.511 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+20:55:50.511 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+20:55:50.512 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+20:55:50.513 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+20:55:50.514 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+20:55:50.515 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+20:55:50.515 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+20:55:50.515 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+20:55:50.518 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+20:55:50.522 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 3 ms.
+20:55:50.524 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+20:55:50.525 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+20:55:50.525 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+20:55:50.525 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+20:55:50.531 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\nirav\IdeaProjects\opencartcopy\master.xml
+
+20:55:50.789 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 6 ms.
+20:55:57.398 [main] INFO  testCases.TC_001_AccountRegistrationTest - **** starting TC_001_AccountRegistrationTest  *****
+20:55:57.398 [main] DEBUG testCases.TC_001_AccountRegistrationTest - application logs started......
+20:55:57.580 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount link
+20:55:58.347 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on registration link
+20:55:58.347 [main] INFO  testCases.TC_001_AccountRegistrationTest - Entering customer details.. 
+20:55:59.858 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on continue..
+20:55:59.921 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message..
+20:55:59.924 [main] DEBUG testCases.TC_001_AccountRegistrationTest - application logs end.......
+20:55:59.924 [main] INFO  testCases.TC_001_AccountRegistrationTest - **** finished TC_001_AccountRegistrationTest  *****
+20:56:05.747 [main] INFO  testCases.TC_002_LoginTest - **** Starting TC_002_LoginTest  ****
+20:56:05.747 [main] DEBUG testCases.TC_002_LoginTest - capturing application debug logs....
+20:56:05.875 [main] INFO  testCases.TC_002_LoginTest - clicked on myaccount link on the home page..
+20:56:06.486 [main] INFO  testCases.TC_002_LoginTest - clicked on login link under myaccount..
+20:56:06.488 [main] INFO  testCases.TC_002_LoginTest - Entering valid email and password..
+20:56:07.568 [main] INFO  testCases.TC_002_LoginTest - clicked on ligin button..
+20:56:07.610 [main] INFO  testCases.TC_002_LoginTest - **** Finished TC_002_LoginTest  ****
+20:56:08.546 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@14fded9d: 0 ms

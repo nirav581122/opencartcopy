@@ -10,5 +10,8 @@
         <module name="opencartcopy" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="opencart121" target="11" />
+    </bytecodeTargetLevel>
   </component>
 </project>
